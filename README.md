@@ -27,3 +27,18 @@ Estamos comprometidos a brindar una experiencia de compra en línea fácil y agr
 
 
 ## Descripcion de los integrantes del grupo
+
+-  Acosta Ignacio
+*  Capua Lautaro
++  Deffis Daniel
+-  Paz Gustavo
+*  Santillan jose
+
+
+## Sitios referentes del mercado:
+
+- [Dafiti Colombia](https://www.dafiti.com.co/) <--- Ropa de todo tipo
+* [Adidas Argentina](https://www.adidas.com.ar)  <-- Ropa deportiva
++ [Devre](https://www.devre.la/)  <--- ropa formal para hombres
+- [Levi's Jeans](https://www.levi.com.ar/)  <---- ropa informal
+* [Galpón de ropa](https://www.galponderopa.com ) <---- Ofrece servicio de "compra/venta"
